@@ -546,7 +546,7 @@ export const minor_project = [
   },
   {
     id: 205,
-    image: Images.NSSOrientation,
+    image: newImages.NSSOrientation,
     project: "NSS Orientation",
     domain: "EDUCATION",
     summary:
@@ -884,7 +884,7 @@ export const minor_project = [
     id: 242,
     project: "26th January Republic Day",
     domain: "SOCIETY",
-    image: Images.Republic,
+    image: newImages.Republic,
     quote: "A flag of pride, a nation united.",
     summary: `The TCET NSS Unit actively joined the Republic Day flag hoisting tradition at Thakur College of Engineering and Technology. A substantial number of volunteers gathered to express reverence for the Indian flag during the ceremony. Following the flag hosting, Program Officers (POs) engaged in insightful discussions with volunteers, delving into the importance and objectives of NSS. The event concluded on a positive note with a lively photo session, where volunteers, council members, and POs came together to capture memorable moments of unity and participation.`,
   },
